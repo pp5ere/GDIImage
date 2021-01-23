@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/08/13 21:20:00.000.874,=C:\Users\Rodrigo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/01/23 09:24:20.233,=C:\Users\Rodrigo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/01/23 10:26:24.725,C:\ProjetosDelphi\GDIImage\UGDIImage.pas=C:\Users\Rodrigo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/01/23 10:26:24.725,C:\ProjetosDelphi\GDIImage\UGDIImage.dfm=C:\Users\Rodrigo\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/01/23 10:26:41.859,C:\ProjetosDelphi\GDIImage\GDIImageProject.dproj=C:\Users\Rodrigo\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/01/23 10:27:57.129,=C:\ProjetosDelphi\GDIImage\lib\IGDIPlus.pas</Transaction>
+    <Transaction>2021/01/23 10:32:38.945,C:\ProjetosDelphi\GDIImage\lib\IGDIPlus.pas=</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
